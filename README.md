@@ -25,6 +25,3 @@ List of components
 - Park
 - Slot
 - Section
-
-# Project Sample
-![ScreenShot](https://user-images.githubusercontent.com/89058867/179653854-bc2f6ffc-4aa8-4f3a-84f8-1a58f09df065.png)
