@@ -1,0 +1,20 @@
+.entry{
+    height: 141px;
+}
+.m-entry-top{
+    margin-bottom: 7rem;
+}
+.m-entry-bottom{
+    margin-top: 7rem;
+}
+.entry-button{
+    background: yellow;
+    color: black
+}
+.closed-button{
+    background: gray;
+    color: black
+}
+.open-area{
+    height: 150px !important;
+}
